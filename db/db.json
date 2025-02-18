@@ -1,0 +1,221 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Australiano"
+      },
+      {
+        "id": 6,
+        "tipo": "Baguete"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      },
+      {
+        "id": 5,
+        "tipo": "Acém"
+      },
+      {
+        "id": 6,
+        "tipo": "Sobrecoxa de frango"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Salame"
+      },
+      {
+        "id": 3,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 5,
+        "tipo": "Pepino"
+      },
+      {
+        "id": 6,
+        "tipo": "Alface"
+      },
+      {
+        "id": 7,
+        "tipo": "Picles"
+      },
+      {
+        "id": 8,
+        "tipo": "Azeitona"
+      }
+    ],
+    "molhos": [
+      {
+        "id": 1,
+        "tipo": "Cebola Agridoce"
+      },
+      {
+        "id": 2,
+        "tipo": "Chipotle"
+      },
+      {
+        "id": 3,
+        "tipo": "Barbecue"
+      },
+      {
+        "id": 4,
+        "tipo": "Parmesão"
+      },
+      {
+        "id": 5,
+        "tipo": "Maionese Temperada"
+      },
+      {
+        "id": 6,
+        "tipo": "Mostarda e Mel"
+      },
+      {
+        "id": 7,
+        "tipo": "Supreme"
+      },
+      {
+        "id": 8,
+        "tipo": "Ketchup de tomate"
+      },
+      {
+        "id": 9,
+        "tipo": "Mostarda"
+      },
+      {
+        "id": 10,
+        "tipo": "Molho de pimenta"
+      }
+    ],
+    "Queijos": [
+      {
+        "id": 1,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 2,
+        "tipo": "Mussarela ralada"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão"
+      },
+      {
+        "id": 4,
+        "tipo": "Cream cheese"
+      },
+      {
+        "id": 5,
+        "tipo": "Mix de 3 queijos"
+      },
+      {
+        "id": 6,
+        "tipo": "Molho de queijo"
+      },
+      {
+        "id": 7,
+        "tipo": "Ricota"
+      },
+      {
+        "id": 8,
+        "tipo": "Queijo Provolone"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "f409",
+      "nome": "jaja",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame",
+        "Cebola roxa"
+      ],
+      "molhos": [
+        "Supreme"
+      ],
+      "queijos": [],
+      "status": "Em produção"
+    },
+    {
+      "id": "1622",
+      "nome": "oils",
+      "carne": "Veggie burger",
+      "pao": "Baguete",
+      "opcionais": [
+        "Tomate",
+        "Pepino",
+        "Picles",
+        "Alface",
+        "Cebola roxa",
+        "Azeitona"
+      ],
+      "molhos": [
+        "Cebola Agridoce",
+        "Chipotle",
+        "Mostarda e Mel"
+      ],
+      "queijos": [
+        "Cheddar",
+        "Ricota"
+      ],
+      "status": "Solicitado"
+    }
+  ]
+}
