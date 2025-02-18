@@ -177,45 +177,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "id": "f409",
-      "nome": "jaja",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "molhos": [
-        "Supreme"
-      ],
-      "queijos": [],
-      "status": "Em produção"
-    },
-    {
-      "id": "1622",
-      "nome": "oils",
-      "carne": "Veggie burger",
-      "pao": "Baguete",
-      "opcionais": [
-        "Tomate",
-        "Pepino",
-        "Picles",
-        "Alface",
-        "Cebola roxa",
-        "Azeitona"
-      ],
-      "molhos": [
-        "Cebola Agridoce",
-        "Chipotle",
-        "Mostarda e Mel"
-      ],
-      "queijos": [
-        "Cheddar",
-        "Ricota"
-      ],
-      "status": "Solicitado"
-    }
-  ]
+  "burgers": []
 }

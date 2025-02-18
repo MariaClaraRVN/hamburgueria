@@ -4,7 +4,7 @@
     <div>
       <div id="burguer-table-heading">
 
-        <div class="order-id">#:</div>
+        <div class="order-id">Id:</div>
 
         <div>Cliente:</div>
 
